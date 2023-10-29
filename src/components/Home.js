@@ -1,0 +1,17 @@
+
+// import '../App.css';
+
+
+// function Home() {
+//   return (
+//     <>
+//       {/* <Header />
+//       <Main /> */}
+
+//       <iframe src="https://www.tooplate.com/live/2117_infinite_loop" className='iframe'></iframe>
+
+//     </>
+//   );
+// }
+
+// export default Home;
